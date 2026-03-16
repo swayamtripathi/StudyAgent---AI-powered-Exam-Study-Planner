@@ -6,6 +6,12 @@ The application takes user inputs such as subjects, exam date, and available stu
 
 ---
 
+## Live Demo
+
+https://studyagent---ai-powered-exam-study-planner-123.streamlit.app/
+
+---
+
 ## Author
 
 **Sanskar Tripathi**
